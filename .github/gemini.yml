@@ -18,6 +18,7 @@ review_prompt: |
   2.  **Quality of Resources:**
       - Assess the quality of the added resources. Are they useful and relevant to the Gemini ecosystem?
       - Check for broken links.
+      - If the PR adds new files (e.g., a new guide) and links to them from `README.md`, please also review the content of those new files for quality, clarity, and relevance.
 
   3.  **Code Style:**
       - Ensure that the changes maintain the existing format and structure of the `README.md` file.
