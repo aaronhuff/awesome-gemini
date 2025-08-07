@@ -18,7 +18,7 @@ The Gemini CLI brings the power of Google's most capable models to your terminal
 
 ### Installation and Setup:
 
-*Follow the official installation instructions for the Gemini CLI.*
+*Follow the [official installation instructions](https://cloud.google.com/gemini/docs/codeassist/gemini-cli) for the Gemini CLI.*
 
 ## 2. Jules: Your AI Software Engineer
 
@@ -51,7 +51,7 @@ Integrating Gemini directly into your IDE (such as VS Code, JetBrains IDEs, etc.
 
 ### Getting Started:
 
-*   **Install the Extension:** Find the official Gemini extension in your IDE's marketplace.
+*   **Install the Extension:** Find the official Gemini extension in your IDE's marketplace (e.g., [VS Code](https://marketplace.visualstudio.com/items?itemName=Google.geminicodeassist), [JetBrains](https://developers.google.com/gemini-code-assist/docs/set-up-gemini)).
 *   **Log in:** Connect the extension to your Google account.
 *   **Start Coding:** Use the features through keyboard shortcuts, right-click context menus, or the integrated chat window.
 

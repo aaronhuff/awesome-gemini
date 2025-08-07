@@ -1,4 +1,4 @@
-# Google Workspace Aware Personal Assistant
+# Google Workspace Assistant Guide
 
 This guide outlines the best practices for using a large language model as a personal assistant with deep integration into Google Workspace. The focus is on leveraging the model's ability to read and edit content across Google's suite of applications, using the `@` command as the primary method of interaction.
 
