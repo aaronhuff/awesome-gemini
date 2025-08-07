@@ -15,6 +15,7 @@
 - [AI Studio & Notebook LLM](#ai-studio--notebook-llm)
 - [Developer Tools](#developer-tools)
 - [Learning & Prompts](#learning--prompts)
+- [Custom Gems](#custom-gems)
 - [Guides & Workflows](#guides--workflows)
 - [Community](#community)
 - [Contributing](#contributing)
@@ -66,6 +67,12 @@
 - [Awesome Gemini Prompts](https://github.com/langgptai/awesome-gemini-prompts)
 - [Prompt Engineering for Gemini](https://ai.google.dev/tutorials)
 - [Community Prompt Collections](https://github.com/ximilsoft/awesome-ai-prompts)
+
+---
+
+## Custom Gems
+
+- [AI Productivity Assistant for Google Workspace](./gems/google-workspace-assistant.md) - A set of custom instructions to turn Gemini into a proactive productivity partner in Google Workspace.
 
 ---
 
