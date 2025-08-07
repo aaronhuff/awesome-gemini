@@ -15,6 +15,7 @@
 - [AI Studio & Notebook LLM](#ai-studio--notebook-llm)
 - [Developer Tools](#developer-tools)
 - [Learning & Prompts](#learning--prompts)
+- [Guides & Workflows](#guides--workflows)
 - [Community](#community)
 - [Contributing](#contributing)
 
@@ -65,6 +66,14 @@
 - [Awesome Gemini Prompts](https://github.com/langgptai/awesome-gemini-prompts)
 - [Prompt Engineering for Gemini](https://ai.google.dev/tutorials)
 - [Community Prompt Collections](https://github.com/ximilsoft/awesome-ai-prompts)
+
+---
+
+## Guides & Workflows
+
+- [Google AI Studio Guide](./guides/ai-studio.md) - A guide to getting started with Google AI Studio.
+- [Gemini Learning Tools Guide](./guides/learning-tools.md) - Learn how to use Gemini's new learning tools to study more effectively.
+- [Jules: Your AI Coding Partner](./guides/jules.md) - A guide to working with Jules, your AI coding partner.
 
 ---
 
