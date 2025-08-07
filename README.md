@@ -58,6 +58,7 @@
 
 - [Gemini API](https://ai.google.dev/)
 - [SDKs and Libraries](https://github.com/topics/gemini-api)
+- [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli)
 - [Gemini Apps & Templates](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps)
 
 ---
