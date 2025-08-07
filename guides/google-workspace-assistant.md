@@ -1,58 +1,49 @@
-# Google Workspace Assistant Guide
+# Ultimate Workspace Personal Assistant Guide
 
-This guide outlines the best practices for using a large language model as a personal assistant with deep integration into Google Workspace. The focus is on leveraging the model's ability to read and edit content across Google's suite of applications, using the `@` command as the primary method of interaction.
+This guide provides a comprehensive overview of how to transform GitHub Copilot into the ultimate personal assistant for your workspace. By combining custom instructions, reusable prompts, and a deep understanding of your tools, you can create an AI partner that streamlines your workflow and boosts productivity.
 
-## Core Capabilities
+## Core Concepts
 
-Your personal assistant has two primary functions when interacting with Google Workspace:
+The Workspace Personal Assistant is designed to be:
 
-1.  **Reading:** The assistant can read and comprehend information from your documents, emails, spreadsheets, and presentations. This allows it to answer questions, summarize content, and find information quickly.
-2.  **Editing:** The assistant can make changes to your files, such as drafting emails, adding content to documents, creating new slides, or updating spreadsheets.
+*   **Context-Aware:** It understands your project's structure, key files, and communication patterns.
+*   **Proactive:** It can anticipate your needs and suggest actions to help you stay organized.
+*   **Integrated:** It works seamlessly with your existing tools, including Google Workspace, Slack, and project management software.
 
-## The @ Command: Your Primary Tool
+## Setting Up Your Custom Gem
 
-The most effective way to interact with your assistant is through the `@` command within Google Workspace applications. This command allows you to directly invoke the assistant and specify the context for its actions.
+To create a "custom gem" for your Workspace Personal Assistant, you'll need to create a set of files that define its behavior. These files will be stored in your project's `.github` directory.
 
-### How to Use the @ Command
+### 1. Custom Instructions (`.github/instructions/google-workspace-assistant.md`)
 
-1.  **Open the application:** Start in Gmail, Docs, Sheets, or Slides.
-2.  **Type `@`:** This will bring up a list of smart chips, including people, files, and events.
-3.  **Select the assistant:** Choose the Gemini/assistant smart chip.
-4.  **Provide your instructions:** Clearly state what you want the assistant to do.
+Create a file named `google-workspace-assistant.md` in a `.github/instructions` directory within your project. This file will contain the core instructions that define the assistant's persona and behavior.
 
-### Examples of @ Commands
+### 2. Reusable Prompts (`.github/prompts/`)
 
-**In Gmail:**
+Create a `prompts` directory within your `.github` directory. Here, you'll store reusable prompts for common tasks.
 
-*   `@Gemini summarize the thread`
-*   `@Gemini draft a reply to this email thanking the sender for their feedback.`
-*   `@Gemini find all emails from [person's name] about the Q3 budget.`
+**Example Prompts:**
+* `summarize-document.prompt.md`
+* `draft-email.prompt.md`
+* `create-todo-list.prompt.md`
 
-**In Google Docs:**
+## Using Your Workspace Personal Assistant
 
-*   `@Gemini write an introduction for a document about the benefits of remote work.`
-*   `@Gemini summarize the last two pages of this document.`
-*   `@Gemini create a table with three columns: "Task", "Owner", and "Deadline".`
+Once you've set up your custom instructions and reusable prompts, you can start interacting with your assistant in Copilot Chat.
 
-**In Google Sheets:**
+### Invoking Your Assistant:
 
-*   `@Gemini create a formula to calculate the average of cells B2 through B10.`
-*   `@Gemini find all rows where the "Status" column is "Complete".`
-*   `@Gemini create a chart based on the data in A1:B10.`
+*   **General Questions:** Simply ask your question in the chat window.
+*   **Reusable Prompts:** Use the `/` command followed by the prompt's filename (e.g., `/summarize-document`).
 
-**In Google Slides:**
+### Example Workflows:
 
-*   `@Gemini create a new slide with a title and a bulleted list.`
-*   `@Gemini find a relevant image for this slide about "teamwork".`
-*   `@Gemini summarize the key points from this presentation.`
+*   **Summarizing a long email thread:**
+    *   Open the email thread.
+    *   In Copilot Chat, type: `/summarize-document`
+*   **Drafting a project update:**
+    *   In Copilot Chat, type: `Draft a project update for the team. We've completed the design phase and are moving on to development. The key deadline is next Friday.`
+*   **Creating a to-do list:**
+    *   In Copilot Chat, type: `Create a to-do list for the rest of the day. I need to finish the Q3 report, prepare for my 1:1 with my manager, and respond to all unread emails.`
 
-## Best Practices for Clear Instructions
-
-To get the best results from your assistant, follow these guidelines:
-
-*   **Be specific:** Instead of saying "help with this doc," say "@Gemini summarize the key takeaways from this document."
-*   **Provide context:** If you're referencing another file, use the `@` command to link to it directly (e.g., `@Gemini summarize the attached report`).
-*   **Use natural language:** You don't need to use "computer language." Speak to the assistant as you would to a human assistant.
-*   **Review and refine:** Always double-check the assistant's work. It's a powerful tool, but it's not infallible. Be prepared to make small edits or provide clarifying instructions.
-
-By mastering the `@` command and providing clear instructions, you can turn your personal assistant into an invaluable partner for managing your work in Google Workspace.
+By following this guide, you can create a powerful and personalized Workspace Personal Assistant that will help you work smarter, not harder.
