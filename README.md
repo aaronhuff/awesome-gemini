@@ -75,6 +75,8 @@
 - [Gemini Learning Tools Guide](./guides/learning-tools.md) - Learn how to use Gemini's new learning tools to study more effectively.
 - [Jules: Your AI Coding Partner](./guides/jules.md) - A guide to working with Jules, your AI coding partner.
 - [Gemini Code Review Guide](./guides/gemini-code-review.md) - A guide to using Gemini Code Assist for code reviews in GitHub.
+- [Google Workspace Assistant Guide](./guides/google-workspace-assistant.md) - A guide to using Gemini as a personal assistant in Google Workspace.
+- [Developer Assistant Guide](./guides/developer-assistant.md) - A guide to using Gemini as a developer assistant.
 
 ---
 
