@@ -34,7 +34,6 @@
 
 ### CLI & Terminal
 - [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [Gemini-CLI (community)](https://github.com/...) _(add links as they appear)_
 
 ---
 
