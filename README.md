@@ -33,6 +33,7 @@
 - [Gemini App (iOS)](https://apps.apple.com/app/id6448624446)  
 
 ### CLI & Terminal
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [Gemini-CLI (community)](https://github.com/...) _(add links as they appear)_
 
 ---
