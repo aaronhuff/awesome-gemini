@@ -74,6 +74,7 @@
 - [Google AI Studio Guide](./guides/ai-studio.md) - A guide to getting started with Google AI Studio.
 - [Gemini Learning Tools Guide](./guides/learning-tools.md) - Learn how to use Gemini's new learning tools to study more effectively.
 - [Jules: Your AI Coding Partner](./guides/jules.md) - A guide to working with Jules, your AI coding partner.
+- [Gemini Code Review Guide](./guides/gemini-code-review.md) - A guide to using Gemini Code Assist for code reviews in GitHub.
 
 ---
 
