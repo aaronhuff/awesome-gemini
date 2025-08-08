@@ -1,0 +1,52 @@
+{
+    // "contextFileName": "GEMINI.md",
+    // "bugCommand": {
+    //     "urlTemplate": "https://github.com/google-gemini/gemini-cli/issues/new?template=bug_report.yml&title={title}&info={info}"
+    // },
+    // "fileFiltering": {
+    //     "respectGitIgnore": true,
+    //     "enableRecursiveFileSearch": true
+    // },
+    // "coreTools": [],
+    // "excludeTools": [],
+    // "allowMCPServers": [],
+    // "excludeMCPServers": [],
+    // "autoAccept": false,
+    // "theme": "Default",
+    // "vimMode": false,
+    // "sandbox": false,
+    // "toolDiscoveryCommand": "",
+    // "toolCallCommand": "",
+    // "mcpServers": {
+    //     "github": {
+    //         "httpUrl": "https://api.githubcopilot.com/mcp/",
+    //         "headers": {
+    //             "Authorization": "<YOUR_GITHUB_TOKEN>"
+    //         }
+    //     }
+    // },
+    // "checkpointing": {
+    //     "enabled": false
+    // },
+    // "preferredEditor": "vscode",
+    // "telemetry": {
+    //     "enabled": false,
+    //     "target": "local",
+    //     "otlpEndpoint": "http://localhost:4317",
+    //     "logPrompts": true
+    // },
+    // "usageStatisticsEnabled": true,
+    // "hideTips": false,
+    // "hideBanner": false,
+    // "maxSessionTurns": -1,
+    // "summarizeToolOutput": {},
+    // "excludedProjectEnvVars": [
+    //     "DEBUG",
+    //     "DEBUG_MODE"
+    // ],
+    // "includeDirectories": [],
+    // "loadMemoryFromIncludeDirectories": false,
+    // "chatCompression": {
+    //     "contextPercentageThreshold": 0.6
+    // }
+}
