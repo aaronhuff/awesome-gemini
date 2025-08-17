@@ -4,6 +4,8 @@ This guide explains how to use Gemini Code Assist to review your code in GitHub.
 
 Gemini Code Assist is a powerful tool that can help you improve the quality of your code by providing automatic code reviews on your pull requests. It is a GitHub App that you need to install and configure in your repository.
 
+For general guidance on how to write effective prompts, please refer to the [Prompting Best Practices](./prompting-best-practices.md) guide.
+
 ## How it Works
 
 Gemini Code Assist uses a Gemini-powered agent to:
@@ -29,6 +31,36 @@ You can also manually invoke Gemini Code Assist by adding comments to the pull r
 *   `/gemini summary`: Posts a summary of the changes in the pull request.
 *   `/gemini review`: Posts a code review of the changes in the pull request.
 *   `/gemini help`: Shows an overview of the available commands.
+
+## Example Code Review
+
+Here is an example of how Gemini Code Assist might review a pull request.
+
+**Original Code:**
+
+```python
+def factorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * factorial(n-1)
+```
+
+**Gemini Code Assist Review:**
+
+> This is a good implementation of the factorial function, but it is vulnerable to a stack overflow error for large values of `n` due to the recursive implementation. Consider rewriting this function iteratively to avoid this issue.
+>
+> Here is an example of an iterative implementation:
+>
+> ```python
+> def factorial(n):
+>     if n < 0:
+>         raise ValueError("Factorial is not defined for negative numbers")
+>     result = 1
+>     for i in range(1, n + 1):
+>         result *= i
+>     return result
+> ```
 
 ## Customization
 

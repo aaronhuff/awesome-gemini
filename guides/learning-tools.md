@@ -2,6 +2,8 @@
 
 Gemini is not just a powerful AI assistant, it's also a great learning companion. With its new learning tools, you can deepen your understanding of complex topics, study more effectively, and bring your learning to life with visuals.
 
+For general guidance on how to write effective prompts, please refer to the [Prompting Best Practices](./prompting-best-practices.md) guide.
+
 ## Guided Learning
 
 Guided Learning is a new mode in the Gemini app that acts as your personal AI learning companion. Instead of just giving you quick answers, it breaks down problems step-by-step and adapts explanations to your needs. This helps you uncover the "how" and "why" behind concepts.
@@ -12,7 +14,7 @@ To use Guided Learning, simply ask Gemini a question about a topic you want to l
 
 **Example Prompt:**
 
-> Can you help me understand the process of photosynthesis?
+> Can you help me understand the process of photosynthesis? Please explain it to me like I'm a high school student.
 
 ## Integrated Visuals
 
@@ -24,7 +26,7 @@ When you ask Gemini about a complex topic, it will proactively weave in visuals 
 
 **Example Prompt:**
 
-> Show me a diagram of the human heart.
+> Show me a diagram of the human heart, and label all the major parts.
 
 ## Exam Prep Tools
 
@@ -36,12 +38,12 @@ You can upload your class notes, a practice quiz, or any other study material to
 
 **Example Prompt:**
 
-> I have a test on the American Revolution next week. Can you create a study guide for me based on my class notes?
+> I have a test on the American Revolution next week. Can you create a study guide for me based on my class notes? The study guide should be in the form of a Q&A, with each question followed by a concise answer.
 >
 > [Paste your class notes here]
 
 Another example:
 
-> Create a set of flashcards for the key terms in this chapter on cellular biology.
+> Create a set of flashcards for the key terms in this chapter on cellular biology. Each flashcard should have the term on one side and a clear definition on the other.
 >
 > [Paste the chapter text here]

@@ -2,6 +2,8 @@
 
 Google AI Studio is a web-based tool that allows you to quickly prototype and test generative AI models. It's a great way to explore the capabilities of Gemini and other Google models without writing any code.
 
+For general guidance on how to write effective prompts, please refer to the [Prompting Best Practices](./prompting-best-practices.md) guide.
+
 ## Getting Started
 
 1.  **Go to AI Studio:** Open your web browser and navigate to [https://aistudio.google.com/](https://aistudio.google.com/).
@@ -23,7 +25,7 @@ You can use AI Studio to help you with creative writing tasks. For example, you 
 
 **Prompt:**
 
-> Write a short story about a robot who discovers music for the first time.
+> Write a short story about a robot who discovers music for the first time. The story should be about 500 words long and should be written in a whimsical and heartwarming tone.
 
 ### Example 2: Content Summarization
 
@@ -31,17 +33,35 @@ AI Studio can be used to summarize long pieces of text. This is useful for quick
 
 **Prompt:**
 
-> Summarize the following article about the benefits of exercise:
+> Summarize the following article about the benefits of exercise in three bullet points.
 >
 > [Paste a long article here]
 
-### Example 3: Code Generation
+### Example 3: Code Generation (Few-Shot)
 
-You can use AI Studio to generate code in various programming languages.
+You can use AI Studio to generate code in various programming languages. Providing few-shot examples can help the model generate code in the style you prefer.
 
 **Prompt:**
 
-> Write a Python function that takes a list of numbers and returns the sum of all the even numbers in the list.
+> **Input:**
+> ```python
+> # A function that takes a list of numbers and returns the sum of all the even numbers in the list.
+> ```
+> **Output:**
+> ```python
+> def sum_even_numbers(numbers):
+>   sum = 0
+>   for number in numbers:
+>     if number % 2 == 0:
+>       sum += number
+>   return sum
+> ```
+>
+> **Input:**
+> ```python
+> # A function that takes a string and returns the reverse of the string.
+> ```
+> **Output:**
 
 ## Advanced Workflows
 
