@@ -15,6 +15,7 @@ To learn how to write effective prompts for Gemini, please refer to our [Prompti
 Gems are pre-built custom instructions that you can use to create specialized AI assistants.
 
 *   [Adaptive Fitness Coach](./gems/adaptive-fitness-coach.md): A personal fitness coach that creates customized workout and nutrition plans.
+*   [Financial Advisor](./gems/financial-advisor.md): A personal finance assistant that helps you manage your budget, savings, and investments.
 *   [Google Workspace Assistant](./gems/google-workspace-assistant.md): Turn Gemini into a powerful productivity assistant for Google Workspace.
 
 ## Guides

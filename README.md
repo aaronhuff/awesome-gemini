@@ -73,6 +73,8 @@
 
 ## Custom Gems
 
+- [Adaptive Fitness Coach](./gems/adaptive-fitness-coach.md) - A personal fitness coach that creates customized workout and nutrition plans.
+- [Financial Advisor](./gems/financial-advisor.md) - A personal finance assistant that helps you manage your budget, savings, and investments.
 - [AI Productivity Assistant for Google Workspace](./gems/google-workspace-assistant.md) - A set of custom instructions to turn Gemini into a proactive productivity partner in Google Workspace.
 
 ---
