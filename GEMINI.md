@@ -10,6 +10,15 @@ Gemini is a family of multimodal AI models developed by Google. They are capable
 
 To learn how to write effective prompts for Gemini, please refer to our [Prompting Best Practices](./guides/prompting-best-practices.md) guide.
 
+## Project Structure
+
+This repository is organized into two main categories:
+
+*   **Gems**: These are pre-built custom instructions that you can use to create specialized AI assistants. They are located in the `gems/` directory.
+*   **Guides**: These are in-depth tutorials and walkthroughs that explain how to use Gemini for a variety of tasks. They are located in the `guides/` directory.
+
+When adding new content, please make sure to place it in the appropriate directory. If you are adding a new set of custom instructions, it should be a "gem". If you are adding a tutorial or a "how-to" article, it should be a "guide".
+
 ## Gems
 
 Gems are pre-built custom instructions that you can use to create specialized AI assistants.
