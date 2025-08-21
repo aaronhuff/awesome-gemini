@@ -89,6 +89,7 @@
 - [Gemini Code Review Guide](./guides/gemini-code-review.md) - A guide to using Gemini Code Assist for code reviews in GitHub.
 - [Google Workspace Assistant Guide](./guides/google-workspace-assistant.md) - A guide to using Gemini as a personal assistant in Google Workspace.
 - [Developer Assistant Guide](./guides/developer-assistant.md) - A guide to using Gemini as a developer assistant.
+- [Gemini Fullstack LangGraph Quickstart](./guides/gemini-fullstack-langgraph-quickstart.md) - A guide to building a fullstack application with a React frontend and a LangGraph-powered backend agent.
 
 ---
 
