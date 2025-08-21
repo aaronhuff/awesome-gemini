@@ -49,7 +49,8 @@
 
 - [Gemini AI Studio](https://aistudio.google.com/)
 - [Gemini in Colab](https://colab.research.google.com/)
-- [Gemini API Reference](https://ai.google.dev/docs)  
+- [Gemini API Reference](https://ai.google.dev/docs)
+- [Gemini API Cookbook](https://github.com/google-gemini/cookbook) - Hands-on tutorials and practical examples for the Gemini API.
 - [Notebook LLM (Google Labs)](https://blog.google/technology/ai/notebooklm-google-labs/)
 
 ---
@@ -67,6 +68,7 @@
 
 - [Awesome Gemini Prompts](https://github.com/langgptai/awesome-gemini-prompts)
 - [Prompt Engineering for Gemini](https://ai.google.dev/tutorials)
+- [Gemini API Cookbook](https://github.com/google-gemini/cookbook) - Hands-on tutorials and practical examples for the Gemini API.
 - [Community Prompt Collections](https://github.com/ximilsoft/awesome-ai-prompts)
 
 ---

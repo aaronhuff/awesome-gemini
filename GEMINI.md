@@ -10,6 +10,8 @@ Gemini is a family of multimodal AI models developed by Google. They are capable
 
 To learn how to write effective prompts for Gemini, please refer to our [Prompting Best Practices](./guides/prompting-best-practices.md) guide.
 
+For hands-on tutorials and practical examples, check out the [Gemini API Cookbook](https://github.com/google-gemini/cookbook).
+
 ## Gems
 
 Gems are pre-built custom instructions that you can use to create specialized AI assistants.
