@@ -97,3 +97,7 @@ Prompt design is often an iterative process. If you're not getting the results y
 *   **Don't assume knowledge:** Provide all the necessary context.
 *   **Don't rely on the model for factual accuracy:** Always verify the model's responses, especially for important information.
 *   **Avoid overly complex prompts:** Break down complex tasks into smaller steps.
+
+## Further Reading
+
+For more in-depth examples and hands-on tutorials, please see the [Gemini API Cookbook](https://github.com/google-gemini/cookbook).
