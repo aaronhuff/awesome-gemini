@@ -63,6 +63,8 @@
 - [Gemini Apps & Templates](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps)
 
 ---
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source AI coding agent plugin for SEO & Google Ads. Meta tags, schema markup, keyword bids, and CMS content pushes.
+
 
 ## Learning & Prompts
 
