@@ -61,6 +61,7 @@
 - [SDKs and Libraries](https://github.com/topics/gemini-api)
 - [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli)
 - [Gemini Apps & Templates](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps)
+- [RocketRide](https://github.com/rocketride-org/rocketride-server) - Open-source visual AI workflow platform with built-in Gemini text and vision nodes.
 
 ---
 
