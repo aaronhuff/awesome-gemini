@@ -61,6 +61,7 @@
 - [SDKs and Libraries](https://github.com/topics/gemini-api)
 - [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli)
 - [Gemini Apps & Templates](https://github.com/AbdooMohamedd/Awesome-Gemini-Apps)
+- [Nova Agent](https://github.com/Luaz2021/Nova-Agent-Core-Demo) - Open-source autonomous software engineering engine and copilot built natively for Google Antigravity 2.0 & Gemini.
 
 ---
 
