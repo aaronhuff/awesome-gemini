@@ -14,6 +14,8 @@
 - [Google Workspace](#google-workspace)
 - [AI Studio & Notebook LLM](#ai-studio--notebook-llm)
 - [Developer Tools](#developer-tools)
+[Antigravity-OS](https://github.com/ratulbd/antigravity-os)
+ - An autonomous engineering runtime & 182-skill playbook for Google Antigravity and AI coding agents with AST dual-memory routing.
 - [Learning & Prompts](#learning--prompts)
 - [Custom Gems](#custom-gems)
 - [Guides & Workflows](#guides--workflows)
