@@ -57,6 +57,7 @@
 
 ## Developer Tools
 
+- [CodeSage](https://github.com/samiitaha/codesage) - AI-native code review, auto-patching, and SARIF CLI powered by Gemini with incremental DAG caching.
 - [Gemini API](https://ai.google.dev/)
 - [SDKs and Libraries](https://github.com/topics/gemini-api)
 - [run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli)
